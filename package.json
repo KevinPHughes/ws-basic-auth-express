@@ -1,0 +1,23 @@
+{
+  "name": "ws-basic-auth-express",
+  "version": "0.0.1",
+  "description": "Adds basic auth to socket connections in express",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KevinPHughes/ws-basic-auth-express.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "websocket",
+    "basic",
+    "authentication"
+  ],
+  "author": "Kevin Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevinPHughes/ws-basic-auth-express/issues"
+  },
+  "homepage": "https://github.com/KevinPHughes/ws-basic-auth-express"
+}
